@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>mindvision</name>
+  <version>0.0.1</version>
+  <description>The mindvision camera package</description>
+
+  <maintainer email="david@tier4.jp">David Wong</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>

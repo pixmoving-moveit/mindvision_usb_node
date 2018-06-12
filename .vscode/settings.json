@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/devdisk/Autoware/ros/devel/lib/python2.7/dist-packages",
+        "/devdisk/roslearn/devel/lib/python2.7/dist-packages",
+        "/home/abang/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages",
+        "/home/dusty/caffe-workspace/python"
+    ]
+}
